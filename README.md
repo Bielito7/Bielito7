@@ -1,4 +1,5 @@
-## Hi, I'm Gabriel.<br><br>• Systems Analysis and Development student at UFPR.<br><br>• Interested in software development, full stack, and data.<br><br>• This profile is a collection of projects, lessons learned and challenges solved throughout my journey into software development.
+## Hi, I'm Gabriel 👋<br><br>
+• Systems Analysis and Development student at UFPR.<br><br>• Interested in software development, full stack, and data.<br><br>• This profile is a collection of projects, lessons learned and challenges solved throughout my journey into software development.
 
 
 ## Socials 🌐:
